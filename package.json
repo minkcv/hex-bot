@@ -1,0 +1,11 @@
+{
+    "name": "hex",
+    "version": "0.1.0",
+    "description": "48 45 58",
+    "main": "hex.js",
+    "author": "minkcv",
+    "dependencies": {
+        "discord.io": "^2.5.3",
+        "discord.js": "^11.4.2"
+    }
+}
